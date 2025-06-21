@@ -3,7 +3,7 @@ namespace: "vdt"
 # Deployment
 image:
   repository: "fat1512/vdt-frontend"
-  tag: d35201ce
+  tag: e71a8018
 
 replicaCount: 1
 
