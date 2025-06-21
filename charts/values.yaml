@@ -5,7 +5,7 @@ image:
   repository: "fat1512/vdt-frontend"
   tag: "1.0.32"
 
-replicaCount: 1
+replicaCount: 2
 
 # Service
 service:
