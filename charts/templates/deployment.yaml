@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: {{ .Chart.Name }}
-        image: fat1512/vdt-frontend:514ccbb7
+        image: fat1512/vdt-frontend:b124e844
         ports:
         - name: http
           containerPort: {{ .Values.service.targetPort }}
